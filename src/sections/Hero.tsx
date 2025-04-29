@@ -143,10 +143,10 @@ export const HeroSection = () => {
     Hello!
   </h1>
   <p className="uppercase font-semibold tracking-widest bg-gradient-to-r from-emerald-300 to-sky-400 text-center text-transparent bg-clip-text text-3xl md:text-5xl">
-    I'm Anurag Teckchandani
+    I&apos;m Anurag Teckchandani
   </p>
   <p className="mt-4 text-center text-white/60 md:text-lg">
-    I'm a passionate Full Stack Engineer specializing in building scalable web, mobile, and SaaS applications. Skilled in Java, JavaScript, .NET, Node.js, Azure, React and modern frameworks, I bring innovative digital experiences to life, delivering performance-driven and user-centric solutions.
+    I&apos;m a passionate Full Stack Engineer specializing in building scalable web, mobile, and SaaS applications. Skilled in Java, JavaScript, .NET, Node.js, Azure, React and modern frameworks, I bring innovative digital experiences to life, delivering performance-driven and user-centric solutions.
   </p>
 </div>
 
