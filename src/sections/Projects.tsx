@@ -1,6 +1,6 @@
-import darkSaasLandingPage from "@/assets/images/dark-saas-landing-page.png";
-import lightSaasLandingPage from "@/assets/images/light-saas-landing-page.png";
-import aiStartupLandingPage from "@/assets/images/ai-startup-landing-page.png";
+import PatientImage from "@/assets/images/PatientImage.png";
+import intelliDocsImage from "@/assets/images/intelliDocs.png";
+import virtualDecorImage from "@/assets/images/virtualdecorImage.png";
 import Image from "next/image";
 import CheckCircleIcon from "@/assets/icons/check-circle.svg";
 import ArrowUpIcon from "@/assets/icons/arrow-up-right.svg";
@@ -17,7 +17,7 @@ const portfolioProjects = [
       { title: "Deployed Docker containers to AWS LocalStack." },
     ],
     link: "https://github.com/anurag444/PatientIQ",
-    image: darkSaasLandingPage,
+    image: PatientImage,
   },
   {
     company: "Personal",
@@ -29,7 +29,7 @@ const portfolioProjects = [
       { title: "Designed role-based dashboards with media storage." },
     ],
     link: "#",
-    image: lightSaasLandingPage,
+    image: intelliDocsImage,
   },
   {
     company: "Personal",
@@ -41,7 +41,7 @@ const portfolioProjects = [
       { title: "Connected .NET backend via ngrok, Firebase." },
     ],
     link: "https://github.com/anurag444/VirtualDecorAR",
-    image: aiStartupLandingPage,
+    image: virtualDecorImage,
   },
 ];
 
